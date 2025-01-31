@@ -1,2 +1,1 @@
-# customrom
-# customrom
+#Crdroid for gale
